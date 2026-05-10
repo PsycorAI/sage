@@ -1,4 +1,4 @@
-Psycor.ai: Synaptic Architecture Graph Engine (SAGE).
+Psycor.ai™: Synaptic Architecture Graph Engine (SAGE).
 
 # PsycorAI: Autonomous Edge Intelligence with Memory and Learning
 
@@ -11,7 +11,7 @@ Psycor.ai™ is a research-driven venture focused on biologically-inspired neura
 
 ## Technical Overview
 
-The Psycor SAGE architecture departs from standard Transformer-based attention by implementing a scale-free network topology. This approach mimics micro-level biological neuron interactions to achieve higher reasoning density with a lower parameter footprint.
+The PsycorSAGE architecture departs from standard Transformer-based attention by implementing a scale-free network topology. This approach mimics micro-level biological neuron interactions to achieve higher reasoning density with a lower parameter footprint.
 
 ### Key Characteristics
 
@@ -30,7 +30,7 @@ The Psycor SAGE architecture departs from standard Transformer-based attention b
 * Emergent Modularity: The architecture naturally self-organizes into functional "hubs" (logic, math, linguistics), mimicking the neocortex to transition from a generalist model to a network of emergent specialists.
 
 **II. Persistent Synaptic Memory:**
-* Graph-Native State: Memory is "baked" into the neural graph's synaptic tension, not a transient external cache. This eliminates the "Groundhog Day" effect, providing durable, long-term knowledge retention that evolves with use.
+* Graph-Native State: Memory is baked into the neural graph's synaptic tension, not a transient external cache. This eliminates the "Groundhog Day" effect, providing durable, long-term knowledge retention that evolves with use.
 
 * Constraint-Solving Mastery: Built for high-density reasoning, PsycorSAGE excels at non-linguistic, logic-heavy tasks (e.g., Sudoku Extreme) that typically stump standard autoregressive Transformers.
 
@@ -71,7 +71,7 @@ The Psycor Engine is a proprietary implementation of the Baby Dragon Hatchling (
 
 ## Intellectual Property & Licensing
 
-**Psycor.ai™**, **PsycorSAGE**, and **PsycorEdge™** are trademarks of Psycor.ai, established May 2026. All rights reserved.
+**Psycor.ai™**, **PsycorSAGE™**, and **PsycorEdge™** are trademarks of Psycor.ai, established May 2026. All rights reserved.
 
 The source code and model weights in this repository are licensed under the **Apache License 2.0**. Use of these materials is subject to the terms and conditions outlined in the [LICENSE](./LICENSE) file. 
 
