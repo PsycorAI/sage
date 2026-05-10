@@ -1,5 +1,5 @@
 # bdh
-Baby Dragon Hatchling neural model 01
+PsycorAI: The Synaptic Graph Engine (SGE).
 
 # PsycorAI: Autonomous Edge Intelligence
 
