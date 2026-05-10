@@ -56,4 +56,4 @@ To achieve optimal inference speeds, the following specifications are recommende
 
 The source code and model weights in this repository are licensed under the **Apache License 2.0**. Use of these materials is subject to the terms and conditions outlined in the [LICENSE](./LICENSE) file. 
 
-For commercial inquiries or specialized licensing regarding the BDH architecture, please contact the PsycorAI team.
+For commercial inquiries or specialized licensing regarding the BDH architecture, please contact the PsycorAI team at Psycor.ai -- coming soon.
